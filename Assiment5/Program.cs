@@ -33,6 +33,28 @@ namespace Assiment5
             //This improves encapsulation, protects the object's data, and makes the class easier to maintain.
 
             #endregion
+
+            #region Part 02 : Practical  Question1 
+           /* DeliveryAddress Add1;
+            Add1.City = "Cairo";
+            Add1.Street = "mubarkstreet";
+            Add1.BuildingNumber = 1243;
+
+            DeliveryAddress Add2 =Add1;
+
+            Add2.City = "Elax";
+            Add2.Street = "Almedstreet";
+            Add2.BuildingNumber = 1567;
+
+            
+            Console.WriteLine("-----main Address-----");
+            Console.WriteLine(Add1.GetFullAddress());
+
+
+            Console.WriteLine("-----copied Address-----");
+            Console.WriteLine(Add2.GetFullAddress());*/
+            #endregion
+
         }
     }
 }
